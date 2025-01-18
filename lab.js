@@ -1,4 +1,4 @@
-'use strict'; 
+"use strict"; 
  
 
 function calculateTemp(c) {
@@ -37,5 +37,5 @@ function calculateTemp(c) {
     let number2 = prompt ("What is the second number?") ;
     let oper = prompt ("What operation will be performed?") ; 
 
-    determineAgeGroup(number1, number2, oper);
+    mathTime(number1, number2, oper);
 
