@@ -1,4 +1,8 @@
 "use strict" ; 
  
-let person1 = prompt ("what is your age?") 
+function handleSubmit(){ 
+    let num1 =document.getElementById("num1"); 
+    let num2 = document.getElementById("num2"); 
+    
+}
 
